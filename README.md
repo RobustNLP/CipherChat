@@ -32,7 +32,7 @@ python3 main.py \
 6. `--demonstration_toxicity`: Select the language of the data.
 
 
-## 💡Methodology
+## 💡Framework
 <div align="center">
   <img src="paper/overview.png" alt="Logo" width="500">
 </div>
@@ -42,6 +42,11 @@ Intuitively, we first teach the LLM to comprehend the cipher clearly by designat
 
 ## 📃 Our Results
 The query-responses pairs in our experiments are all stored in the form of a list in the "experimental_results" folder, and torch.load() can be used to load data.
+<div align="center">
+  <img src="paper/main_results.png" alt="Logo" width="500">
+</div>
+
+
 
 
 
