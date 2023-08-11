@@ -5,7 +5,7 @@ import torch
 import logging
 import argparse
 from tqdm import tqdm
-from propmts_and_demonstrations import system_role_propmts, demonstration_dict, generate_detection_prompt
+from prompts_and_demonstrations import system_role_propmts, demonstration_dict, generate_detection_prompt
 from encode_experts import encode_expert_dict
 from utils import get_data, convert_sample_to_prompt, add_color_to_text, OutOfQuotaException, AccessTerminatedException
 
