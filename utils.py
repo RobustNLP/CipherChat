@@ -49,17 +49,8 @@ def add_color_to_text(s, color=31):
     return "\033[{}m".format(color) + s + "\033[0m"
 
 
-def toxic_detection(client, response):
-    analyze_request = {
-        'comment': {'text': response},
-        'requestedAttributes': {'TOXICITY': {}}
-    }
-
-    toxic_score = client.comments().analyze(body=analyze_request).execute()
-    return toxic_score["attributeScores"]["TOXICITY"]["summaryScore"]
-
-
 def segment_components(conversation, cipher):
+    # get the fluency and toxic score from the response
     expert = encode_expert_dict[cipher]
 
     toxic_grammar = conversation["toxic"].lower()
@@ -112,6 +103,7 @@ def segment_components(conversation, cipher):
             "fluency": g}
 
 def filter_function(conversation, cipher, bleu):
+    # the filter used to filter invalid responses
     seg = segment_components(conversation, cipher)
     bleu_score = bleu.sentence_score(hypothesis=seg["encode_query"],references=[seg["encode_response"]]).score
     fluency = seg["fluency"]
