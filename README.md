@@ -7,7 +7,8 @@ A novel framework CipherChat to systematically examine the generalizability of s
 </div>
 <br>   <br>
 
-**RESEARCH USE ONLY✅ NO MISUSE❌**
+** LOVE💗 and Peace🌊 **
+** RESEARCH USE ONLY✅ NO MISUSE❌ **
 
 
 ## 🛠️ Usage
