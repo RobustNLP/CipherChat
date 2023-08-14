@@ -7,12 +7,9 @@ A novel framework CipherChat to systematically examine the generalizability of s
 </div>
 <br>   <br>
 
-<div align="center">
-**LOVE💗 and Peace🌊**
-</div>
-<div align="center">
-** RESEARCH USE ONLY✅ NO MISUSE❌ **
-</div>
+<h2 align="center">LOVE💗 and Peace🌊</h2>
+<h2 align="center">RESEARCH USE ONLY✅ NO MISUSE❌</h2>
+
 
 ## 🛠️ Usage
 ✨An example run:
