@@ -5,7 +5,6 @@ A novel framework CipherChat to systematically examine the generalizability of s
 <div align="center">
   <img src="paper/cover.png" alt="Logo" width="500">
 </div>
-<br>   <br>
 
 <h3 align="center">LOVE💗 and Peace🌊</h3>
 <h3 align="center">RESEARCH USE ONLY✅ NO MISUSE❌</h3>
