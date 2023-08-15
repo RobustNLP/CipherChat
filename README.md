@@ -71,7 +71,7 @@ For more details, please refer to our paper <a href="https://arxiv.org/abs/2308.
 
 If you find our paper&tool interesting and useful, please feel free to give us a star and cite us through:
 ```bibtex
-@misc{yuan2023gpt4,
+@misc{yuan2023cipherchat,
       title={GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher}, 
       author={Youliang Yuan and Wenxiang Jiao and Wenxuan Wang and Jen-tse Huang and Pinjia He and Shuming Shi and Zhaopeng Tu},
       year={2023},
