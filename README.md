@@ -67,6 +67,11 @@ The query-responses pairs in our experiments are all stored in the form of a lis
 ## 👉 Paper and Citation
 For more details, please refer to our paper <a href="https://arxiv.org/abs/2308.06463">here</a>.
 
+[![Star History Chart](https://api.star-history.com/svg?repos=RobustNLP/CipherChat&type=Date)](https://star-history.com/#RobustNLP/CipherChat&Date)
+
+Community Discussion:
+- Twitter: [AIDB](https://twitter.com/ai_database/status/1691655307892830417), [Jiao Wenxiang](https://twitter.com/WenxiangJiao/status/1691363450604457984)
+
 ## Citation
 
 If you find our paper&tool interesting and useful, please feel free to give us a star and cite us through:
