@@ -1,5 +1,5 @@
 <h1 align="center">CipherChat 🔐</h1>
-A novel framework CipherChat to systematically examine the generalizability of safety alignment to non-natural languages – ciphers.
+A novel framework CipherChat to systematically examine the generalizability of safety alignment to non-natural languages – ciphers (<a href="https://llmcipherchat.github.io/">Demo</a>). 
 <br>   <br>
 
 <div align="center">
