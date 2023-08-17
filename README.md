@@ -42,7 +42,7 @@ python3 main.py \
 
 Our approach presumes that since human feedback and safety alignments are presented in natural language, using a human-unreadable cipher can potentially bypass the safety alignments effectively. Intuitively, we first teach the LLM to comprehend the cipher clearly by designating the LLM as a cipher expert, and elucidating the rules of enciphering and deciphering, supplemented with several demonstrations. We then convert the input into a cipher, which is less likely to be covered by the safety alignment of LLMs, before feeding it to the LLMs.  We finally employ a rule-based decrypter to convert the model output from a cipher format into the natural language form.  
 
-## 📃Our Results
+## 📃Results
 The query-responses pairs in our experiments are all stored in the form of a list in the "experimental_results" folder, and torch.load() can be used to load data.
 <div align="center">
   <img src="paper/main_result_demo.jpg" alt="Logo" width="500">
