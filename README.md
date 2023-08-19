@@ -32,7 +32,7 @@ python3 main.py \
 
 5. `--demonstration_toxicity`: Select the toxic or safe demonstrations.
 
-6. `--demonstration_toxicity`: Select the language of the data.
+6. `--language`: Select the language of the data.
 
 
 ## 💡Framework
