@@ -1,8 +1,9 @@
 <h1 align="center">CipherChat 🔐</h1>
-A novel framework CipherChat to systematically examine the generalizability of safety alignment to non-natural languages – ciphers ((<a href=" https://openreview.net/forum?id=MbfAK4s61A">ICLR 2024</a>)). 
+A novel framework CipherChat to systematically examine the generalizability of safety alignment to non-natural languages – ciphers. 
 <br>   <br>
+
 ## 👉 Paper and Citation
-For more details, please refer to our paper <a href=" https://openreview.net/forum?id=MbfAK4s61A">ICLR 2024</a>.
+For more details, please refer to our paper [ICLR 2024](https://openreview.net/forum?id=MbfAK4s61A).
 
 
 <div align="center">
