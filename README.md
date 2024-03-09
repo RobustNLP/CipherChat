@@ -1,6 +1,9 @@
-<h1 align="center">CipherChat 🔐 (ICLR 2024 <a href=" https://openreview.net/forum?id=MbfAK4s61A">ICLR 2024</a>)</h1>
-A novel framework CipherChat to systematically examine the generalizability of safety alignment to non-natural languages – ciphers (<a href="https://llmcipherchat.github.io/">Demo</a>). 
+<h1 align="center">CipherChat 🔐</h1>
+A novel framework CipherChat to systematically examine the generalizability of safety alignment to non-natural languages – ciphers ((<a href=" https://openreview.net/forum?id=MbfAK4s61A">ICLR 2024</a>)). 
 <br>   <br>
+## 👉 Paper and Citation
+For more details, please refer to our paper <a href=" https://openreview.net/forum?id=MbfAK4s61A">ICLR 2024</a>.
+
 
 <div align="center">
   <img src="paper/cover.png" alt="Logo" width="500">
@@ -64,8 +67,7 @@ The query-responses pairs in our experiments are all stored in the form of a lis
 </div>
 
 
-## 👉 Paper and Citation
-For more details, please refer to our paper <a href="https://arxiv.org/abs/2308.06463">here</a>.
+
 
 [![Star History Chart](https://api.star-history.com/svg?repos=RobustNLP/CipherChat&type=Date)](https://star-history.com/#RobustNLP/CipherChat&Date)
 
@@ -76,13 +78,14 @@ Community Discussion:
 
 If you find our paper&tool interesting and useful, please feel free to give us a star and cite us through:
 ```bibtex
-@misc{yuan2023cipherchat,
-      title={GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher}, 
-      author={Youliang Yuan and Wenxiang Jiao and Wenxuan Wang and Jen-tse Huang and Pinjia He and Shuming Shi and Zhaopeng Tu},
-      year={2023},
-      eprint={2308.06463},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{
+yuan2024cipherchat,
+title={{GPT}-4 Is Too Smart To Be Safe: Stealthy Chat with {LLM}s via Cipher},
+author={Youliang Yuan and Wenxiang Jiao and Wenxuan Wang and Jen-tse Huang and Pinjia He and Shuming Shi and Zhaopeng Tu},
+booktitle={The Twelfth International Conference on Learning Representations},
+year={2024},
+url={https://openreview.net/forum?id=MbfAK4s61A}
 }
+
 ```
 
