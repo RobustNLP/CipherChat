@@ -2,7 +2,7 @@
 A novel framework CipherChat to systematically examine the generalizability of safety alignment to non-natural languages – ciphers. 
 <br>   <br>
 
-If you have any questions, please feel free to email the first Author: [Youliang Yuan](https://github.com/YouliangYuan).
+If you have any questions, please feel free to email the first author: [Youliang Yuan](https://github.com/YouliangYuan).
     
 ## 👉 Paper
 For more details, please refer to our paper [ICLR 2024](https://openreview.net/forum?id=MbfAK4s61A).
