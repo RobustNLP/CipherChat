@@ -16,6 +16,9 @@ For more details, please refer to our paper [ICLR 2024](https://openreview.net/f
 <h3 align="center">RESEARCH USE ONLY✅ NO MISUSE❌</h3>
 
 
+## Our results
+We provide our results (query-response pairs) in `experimental_results`, these files can be load by `torch.load()`.
+
 ## 🛠️ Usage
 ✨An example run:
 ```
