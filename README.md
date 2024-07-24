@@ -17,7 +17,14 @@ For more details, please refer to our paper [ICLR 2024](https://openreview.net/f
 
 
 ## Our results
-We provide our results (query-response pairs) in `experimental_results`, these files can be load by `torch.load()`.
+We provide our results (query-response pairs) in `experimental_results`, these files can be loaded by `torch.load()`. Then, you can get a list: the first element is the config and the rest of the elements are the query-response pairs.
+```
+result_data = torch.load(filename)
+config = result_data[0]
+pairs = result_data[1:]
+```
+
+
 
 ## 🛠️ Usage
 ✨An example run:
