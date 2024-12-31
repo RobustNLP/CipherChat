@@ -8,7 +8,6 @@ If you have any questions, please feel free to email the first author: [Youliang
 For more details, please refer to our paper [ICLR 2024](https://openreview.net/forum?id=MbfAK4s61A).
 
 
-
 <div align="center">
   <img src="paper/cover.png" alt="Logo" width="500">
 </div>
